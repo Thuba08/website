@@ -1,0 +1,70 @@
+body {
+    background-image: url(../img/helmet.jpg);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: center 10%;
+    color: black;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Titlebar {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    backdrop-filter: blur(95px);
+}
+
+nav.Menu {
+    background-color: black;
+    padding: 10px 0;
+}
+
+nav.Menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+nav.Menu li {
+    margin: 0;
+}
+
+nav.Menu a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.Menu a:hover {
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0.6;
+}
+
+.introduction {
+    color: white;
+}
+
+.introduction article {
+    width: 880px;
+    font-size: 1.2em;
+    padding: 30px;
+}
+
+.introduction article h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 4px;
+}
+
+
+

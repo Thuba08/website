@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Willie Thrower",
+      "desc": "First Black quarterback in the modern NFL ",
+      "images": ["img/Willie.jpg", "img/Willie2.jpg"]
+    },
+    {
+      "name": "Doug Williams",
+      "desc": "First Black QB to win a Super Bowl ",
+      "images": ["img/Doug.jpg", "img/Doug2.webp"]
+    },
+    {
+      "name": "Warren Moon",
+      "desc": "First Black QB the Football Hall of Fame",
+      "images": ["img/Warren.jpg", "img/Warren2.webp"]
+    },
+    {
+      "name": "Michael Vick",
+      "desc": "First Black QB selected first overall in the NFL Draft",
+      "images": ["img/Micheal.jpg", "img/Micheal2.jpg"] 
+    },
+    {
+      "name": "Patrick Mahomes vs Jalen Hurts",
+      "desc": "First Super Bowl featuring two Black QBs",
+      "images": ["img/MahomesxHurts.webp", "img/MahomesxHurts2.webp", "img/MahomesxHurts3.avif"]
+    }
+  ]
+  

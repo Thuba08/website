@@ -1,0 +1,50 @@
+{
+    "gallery": [
+      {
+        "thumb": "img/Jalen.jpg",
+        "full": "img/Jalen.jpg",
+        "description": "Jalen Hurts 26 years old - Philadelphia Eagles"
+      },
+      {
+        "thumb": "img/Jayden.webp",
+        "full": "img/Jayden.webp",
+        "description": "Jayden Daniels 24 years old - Washington Commanders"
+      },
+      {
+        "thumb": "img/Stroud.jpg",
+        "full": "img/Stroud.jpg",
+        "description": "CJ Stroud 23 years old - Houston Texans"
+      },
+      {
+        "thumb": "img/Bryce.jpg",
+        "full": "img/Bryce.jpg",
+        "description": "Bryce Young 23 years old - Carolina Panthers"
+      },
+      {
+        "thumb": "img/Jordan.webp",
+        "full": "img/Jordan.webp",
+        "description": "Jordan Love 26 years old - Green Bay Packers"
+      },
+      {
+        "thumb": "img/Justin.jpg",
+        "full": "img/Justin.jpg",
+        "description": "Justin Fields 26 years old - New York Jets"
+      },
+      {
+        "thumb": "img/Cam.webp",
+        "full": "img/Cam.webp",
+        "description": "Cam Ward 22 years old - 2025 draft prospect"
+      },
+      {
+        "thumb": "img/Shedeur.webp",
+        "full": "img/Shedeur.webp",
+        "description": "Shedeur Sanders 23 years old - 2025 draft prospect"
+      },
+      {
+        "thumb": "img/Milroe.jpg",
+        "full": "img/Milroe.jpg",
+        "description": "Jalen Milroe 22 years old - 2025 draft prospect"
+      }
+    ]
+  }
+  
